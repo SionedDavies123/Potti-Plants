@@ -1,8 +1,18 @@
-<!DOCTYPE html>
+<!doctype html>
   <html>
+  <html lang="en">
     <head>
+      <title> potti plants </title>
     </head>
-<b> hi girls! </b>
     <body>
+      <b> hi girls! </b>
+      <div class="row">
+        <div class="col-sm">
+          One of two columns with a chunk of text in!!
+        </div>
+        <div class="col-sm">
+          Second of two columns with a chunk of text in!!
+        </div>
+      </div>
     </body>
   </html>
