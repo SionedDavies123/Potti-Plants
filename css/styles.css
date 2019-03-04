@@ -87,11 +87,11 @@ css
   }
 }
 
-border-style: dashed;
+{border-style: dashed;
    border-width: 3px;
    border-left-width: 10px;
    border-right-width: 10px;
-   border-color: red;
+   border-color: red;}
 
 .masthead {
   position: relative;
