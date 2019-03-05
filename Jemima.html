@@ -149,6 +149,7 @@
 </section>
 
   <!-- About Section -->
+
   <section id="About" class="About-section">
     <div class="container">
       <div class="row">
@@ -156,6 +157,17 @@
 
           <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
           <h2 class="text-white mb-5">Click here to learn about Caro, Jemima and Sioned!</h2>
+
+          .leaf-shaped-element {
+          	float: left;
+          	width: 400px;
+          	height: 400px;
+          	shape-outside: url(leaf.png);
+          	shape-margin: 15px;
+          	shape-image-threshold: 0.5;
+          	background: #009966 url(path/to/background-image.jpg);
+          	mask-image: url(leaf.png);
+          }
 
           <form class="form-inline d-flex">
             <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0" id="inputEmail" placeholder="Enter email address...">
