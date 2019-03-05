@@ -309,3 +309,14 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
+.leaf-shaped-element {
+    float: left;
+    width: 400px;
+    height: 400px;
+    shape-outside: url(leaf.png);
+    shape-margin: 15px;
+    shape-image-threshold: 0.5;
+    background: #009966 url(path/to/background-image.jpg);
+    mask-image: url(leaf.png);
+}
