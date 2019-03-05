@@ -1,4 +1,4 @@
-css
+<!doctype="css">
 /*!
  * Start Bootstrap - Grayscale v5.0.5 (https://startbootstrap.com/template-overviews/grayscale)
  * Copyright 2013-2019 Start Bootstrap
@@ -329,5 +329,4 @@ footer {
     shape-image-threshold: 0.5;
     background: #009966 url(path/to/background-image.jpg);
     mask-image: url(leaf.png);
->>>>>>> parent of 8f193ee... Merge branch 'master' of https://github.com/SionedDavies123/Code-First-Girls-Competition
 }
