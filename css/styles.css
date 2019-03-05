@@ -311,6 +311,7 @@ footer {
 }
 
 .leaf-shaped-element {
+<<<<<<< HEAD
 	float: left;
 	width: 400px;
 	height: 400px;
@@ -319,4 +320,14 @@ footer {
 	shape-image-threshold: 0.5;
 	background: #fff url(leaf.png);
 	mask-image: url(leaf.png);
+=======
+    float: left;
+    width: 400px;
+    height: 400px;
+    shape-outside: url(leaf.png);
+    shape-margin: 15px;
+    shape-image-threshold: 0.5;
+    background: #009966 url(path/to/background-image.jpg);
+    mask-image: url(leaf.png);
+>>>>>>> parent of 8f193ee... Merge branch 'master' of https://github.com/SionedDavies123/Code-First-Girls-Competition
 }
