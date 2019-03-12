@@ -7,7 +7,7 @@
 
 #mainNav {
   min-height: 56px;
-  background-color: #90ee90;
+  background-color: #fff;
 }
 
 #mainNav .navbar-toggler {
@@ -64,7 +64,7 @@
     color: white;
   }
   #mainNav.navbar-shrink {
-    background-color: #90ee90;
+    background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #161616;
@@ -208,7 +208,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #464646;
+    border-color: #64a19d;
     border-width: .25rem;
     width: 30%;
   }
@@ -253,7 +253,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #464646;
+  border-color: #64a19d;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -266,18 +266,18 @@
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: #464646;
+  background: rgba(255, 255, 255, 0.1);
   border-radius: 100%;
   line-height: 3rem;
-  color:#464646;
+  color: rgba(255, 255, 255, 0.3);
 }
 
 .contact-section .social a:hover {
-  color: #464646;
+  color: rgba(255, 255, 255, 0.5);
 }
 
 .contact-section .social a:active {
-  color: #464646;
+  color: #fff;
 }
 
 body {
@@ -286,20 +286,20 @@ body {
 }
 
 a {
-  color: #464646;
+  color: #64a19d;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #464646;
+  color: #3c6360;
 }
 
 .bg-black {
-  background-color: ##464646 !important;
+  background-color: #161616 !important;
 }
 
 .bg-primary {
-  background-color: #464646 !important;
+  background-color: #64a19d !important;
 }
 
 .text-primary {
@@ -308,15 +308,4 @@ a:focus, a:hover {
 
 footer {
   padding: 5rem 0;
-}
-
-=======
-    float: left;
-    width: 400px;
-    height: 400px;
-    shape-outside: url(leaf.png);
-    shape-margin: 15px;
-    shape-image-threshold: 0.5;
-    background: #009966 url(path/to/background-image.jpg);
-    mask-image: url(leaf.png);
 }
