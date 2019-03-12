@@ -7,7 +7,7 @@
 
 #mainNav {
   min-height: 56px;
-  background-color: #fff;
+  background-color: #90ee90;
 }
 
 #mainNav .navbar-toggler {
@@ -299,7 +299,7 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #90ee90 !important;
 }
 
 .text-primary {
