@@ -208,7 +208,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #464646;
+    border-color: #(70,70,70);
     border-width: .25rem;
     width: 30%;
   }
@@ -253,7 +253,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #464646;
+  border-color: (70,70,70);
   border-width: 0.25rem;
   width: 3rem;
 }
