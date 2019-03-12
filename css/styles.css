@@ -64,7 +64,7 @@
     color: white;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #90ee90;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #161616;
@@ -295,7 +295,7 @@ a:focus, a:hover {
 }
 
 .bg-black {
-  background-color: #90ee90 !important;
+  background-color: ##36454f !important;
 }
 
 .bg-primary {
